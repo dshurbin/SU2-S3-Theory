@@ -1,4 +1,34 @@
- **Languages:** [English](README.md) | [Русский](README.ru.md)
+**Languages:** [English](README.md) | [Русский](README.ru.md)
 [![CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
-# Theory
+# **Background**
+
+In 2017, I noticed the similarity between projections of a hypersphere onto R³ and the shape of electron orbitals. It seemed amusing to me, but I forgot about it for some time.
+
+At the beginning of 2025, I found the time and opportunity to give this fact proper attention. Mostly out of boredom, I started "tinkering" in this direction. Gradually, everything began to take shape. I concluded that the stability criterion for orbitals could well be an even number of de Broglie waves along a geodesic. This aligned with the view of modern physics. It led to the concept of resonant modes on the S³ surface and the Laplace-Beltrami equation.
+
+I also suggested that identical "electrons" would occupy mutually orthogonal geodesics, thus implementing the Pauli exclusion principle. However, at that moment I lacked a mechanism for its implementation. Yet this approach already yielded orbitals with s, p, d, f shapes and correct "energy level" filling.
+
+My first impulse was to slightly modify Kaluza-Klein theory, but it compactified the fourth coordinate w at the Planck scale, which led to overlapping electron orbitals and "killed" the entire model. I decided not to compactify w, which was quite daring.
+
+When trying to project the wave function as the integral of the square of psi's modulus over dV, I encountered the divergence of this integral at infinity. At that moment, I was mistaken but made a surprisingly correct decision - I decided to compactify our entire space as an S³ with some large radius (initially I thought about compactifying w, but that was foolish, since in Kaluza-Klein theory this was done to explain the unobservability of the 4th dimension, which would be utterly pointless in this case).
+
+This was erroneous because normalization would be much more logical to perform over the atom's S³, but the decision was fortunate because closing the space automatically granted it quantization. In reality, space can close either as a Poincaré dodecahedral space or as T³ - in the current interpretation, this affects cosmology more. Assuming a global S³ with a radius on the order of 10²⁸ would not contradict observations that our space is flat given current measurement accuracy.
+
+Then, I learned about the SU(2) rotation group, and it led me to the idea that matter could be described by such a construct - a phase SU(2) vortex. This made it possible to describe mass, charge, and spin. On the atomic S³, an electron represents a delocalized topological defect along a resonant mode. The photon turned out to be describable as a traveling phase wave, lacking rest mass but possessing spin.
+
+I left the atomic structure "for later" and began searching for places where the theory would start to "break down". Because it was becoming too beautiful to be true. As a result of this search, it was deduced that such a system describes all principles of mechanics, GR, SR, quantum mechanics/optics/chemistry, Lorentz transformations, the Schrödinger equation - accurate to the formulas. That is, it encompasses all of this.
+
+A bit later, I became acquainted with geometric algebra and Clifford algebras - firstly, geometric algebra seems the most adequate tool for describing SU(2)-S³ theory (what's the point of Pauli matrices then if everything is naturally described by the principles of geometric algebra?); and secondly, Clifford algebras encompass most algebras, and complex numbers, for example, follow from it just as naturally. However, such views are too radical, and I believe the theory should first be presented using the existing physico-mathematical apparatus.
+
+But, I tried to "embrace the immensity" and decided with a "cavalry charge" to link fundamental constants like Planck's constant, the gravitational constant, and the fine-structure constant to the radius of the global S³. And I suffered a crushing failure. It is all the more frustrating that in my attempts at numerical recklessness, I checked neither the orders of magnitude nor the dimensions and included this section in the final document. Shame and disgrace upon me! My only excuse is that I was eager to cut the "Gordian knot" and wasn't sleeping well at the time.
+
+Then, I proceeded to describe the atom within this theory. At first, I followed the template - an S³ for electrons and an S³ for the nucleus. The nucleus forms a topological "pit" around itself - a charge that holds the electrons. Hydrogen is a specific atom where there's simply one proton without an S³. Some things worked out, but it looked unnatural.
+
+Upon mature reflection, after some time, I concluded that having one S³ for the atom is much more natural. Protons and neutrons occupy one pole, and electrons the opposite. The opposite topological charge attracts electrons, while the identical topological charge of electrons repels them. Neutrons screen the topological charge of protons and prevent the nucleus from falling apart. In this model, I represented protons and neutrons as solitons, on whose surface quarks "live" as excited modes.
+
+I'll be honest - this looks like a reformulation of physics. This hypothesis yields practically the same results. Naturally, this raises the question - why? The answer is simple: firstly, this theory "stitches together" all phenomena, from nuclear to macrophysical, with a single mechanism. Secondly - it completely changes the approach to understanding chemistry, materials science, and electricity. For example - new paths open up for the search of high-temperature superconductors, obtaining energy from nuclear fusion and fission bypassing thermal conversion and without gamma radiation. The search for new catalysts and compounds. New means of communication. Overall, this can be equated to how the transition from the geocentric system to the heliocentric one unified celestial and terrestrial mechanics.
+
+I have published these materials on [Zenodo](https://zenodo.org/search?q=shurbin&l=list&p=1&s=10&sort=bestmatch) and on [![viXra](https://img.shields.io/badge/viXra-2507.0060-blue.svg)](https://vixra.org/abs/2507.0060). Since I am not part of the scientific community, but am an engineer and physics is essentially my hobby, I lack the endorsement for publication in serious journals. As the theory is still under development, I decided to organize it as a repository and make changes here as the theory is refined, to avoid cluttering the Zenodo archive. When the theory takes its final form, I will upload it there as the final version.
+
+P.S.: It is very difficult to find a critic who, at the very least, is willing to read and understand. But I can wait. Perhaps - the time has not yet come :)
