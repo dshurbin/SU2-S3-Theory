@@ -1,2 +1,1 @@
-# SU2-S3-Theory
-Physycal world geometrical theory
+> **Languages:** [English](README.md) | [Русский](README.ru.md)
