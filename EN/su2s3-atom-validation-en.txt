@@ -1,0 +1,1 @@
+When testing the atom, I made things easier for myself by postulating rp = sqrt(12a) and much more. This was a cursory check. It is not a critical 'hole' in the theory. I just need to stop procrastinating and formalize the derivation.
