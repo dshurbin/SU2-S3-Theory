@@ -5,7 +5,7 @@
 
 In 2017, I noticed the similarity between projections of a hypersphere onto R³ and the shape of electron orbitals. It seemed amusing to me, but I forgot about it for some time.
 
-At the beginning of 2025, I found the time and opportunity to give this fact proper attention. Mostly out of boredom, I started "tinkering" in this direction. Gradually, everything began to take shape. I concluded that the stability criterion for orbitals could well be an even number of de Broglie waves along a geodesic. This aligned with the view of modern physics. It led to the concept of resonant modes on the S³ surface and the Laplace-Beltrami equation.
+At the beginning of 2025, I found the time and opportunity to give this fact proper attention. Mostly out of boredom, I started "tinkering" in this direction. Gradually, everything began to take shape. I concluded that the stability criterion for orbitals could well be an integer number of de Broglie waves along a geodesic. This aligned with the view of modern physics. It led to the concept of resonant modes on the S³ surface and the Laplace-Beltrami equation.
 
 I also suggested that identical "electrons" would occupy mutually orthogonal geodesics, thus implementing the Pauli exclusion principle. However, at that moment I lacked a mechanism for its implementation. Yet this approach already yielded orbitals with s, p, d, f shapes and correct "energy level" filling.
 
